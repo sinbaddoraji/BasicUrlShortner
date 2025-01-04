@@ -1,7 +1,9 @@
 
 # Docker Compose Setup: Keycloak, Redis, and MongoDB
 
-This repository contains a `docker-compose.yml` file that sets up a development environment with **Keycloak**, **Redis**, and **MongoDB**. The services are connected using a custom Docker network for seamless communication.
+This repository contains a `docker-compose.yml` file that sets up a development environment with **Keycloak**, **Redis**, and **MongoDB**. The services are connected using a custom Docker network for seamless communication. 
+
+These services are required for the basic URL shortner to run which can also be built as a docker container
 
 ## Prerequisites
 
